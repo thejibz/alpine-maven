@@ -19,7 +19,7 @@ OpenJDK 64-Bit Server VM (build 24.91-b01, mixed mode)
 # Maven version
 
 ```
-docker run --rm zenika/alpine-node mvn -v
+docker run --rm zenika/alpine-maven mvn -v
 Apache Maven 3.3.9 (bb52d8502b132ec0a5a3f4c09453c07478323dc5; 2015-11-10T16:41:47+00:00)
 Maven home: /usr/lib/mvn
 Java version: 1.7.0_91, vendor: Oracle Corporation
